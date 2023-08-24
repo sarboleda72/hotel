@@ -49,7 +49,7 @@ input[type='submit']{
 
 form .tabla_reserva{
 	display: flex;
-  	justify-content: center; // Centrar horizontalmente 
+  	justify-content: center; 
   	align-items: center;
 }
 
